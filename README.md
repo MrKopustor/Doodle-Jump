@@ -1,4 +1,4 @@
-# Doodle-Jump
+# Doodle Jump
  
 > C# Game Development in Unity®
 
